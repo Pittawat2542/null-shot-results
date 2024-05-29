@@ -1,0 +1,51 @@
+{
+  "gpt-4-turbo": {
+    "strategyqa": 1234,
+    "winogrande": 260,
+    "triviaqa": 79,
+    "race-h": 2,
+    "gsm8k": 1,
+    "aqua": 1
+  },
+  "gemini-pro-text": {
+    "triviaqa": 647,
+    "winogrande": 69,
+    "strategyqa": 603,
+    "gsm8k": 17,
+    "race-h": 7,
+    "anli": 1,
+    "aqua": 1
+  },
+  "gemini-pro-chat": {
+    "triviaqa": 648,
+    "strategyqa": 601,
+    "winogrande": 69,
+    "gsm8k": 16,
+    "race-h": 8,
+    "aqua": 1
+  },
+  "claude-2.1": {
+    "strategyqa": 1552,
+    "triviaqa": 459,
+    "winogrande": 1160,
+    "gsm8k": 185,
+    "anli": 64,
+    "race-h": 7,
+    "aqua": 10,
+    "race-m": 10
+  },
+  "claude-3-sonnet": {
+    "strategyqa": 32,
+    "winogrande": 113,
+    "triviaqa": 6
+  },
+  "claude-3-opus": {
+    "winogrande": 782,
+    "triviaqa": 160,
+    "strategyqa": 301,
+    "gsm8k": 31,
+    "aqua": 4,
+    "anli": 4,
+    "race-m": 1
+  }
+}

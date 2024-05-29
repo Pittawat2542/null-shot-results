@@ -1,9 +1,5 @@
 results
-more_analysis
-logs/2023-12-29_12-53-41_749747.log
-logs/2024-01-03_13-18-26_714175.log
-more_analysis.zip
-error_analysis
+analysis_results/expected_answers
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,pycharm+all
 
@@ -301,3 +297,4 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,pycharm+all
+analysis_results/error_analysis/error_summary.json
