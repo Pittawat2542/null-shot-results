@@ -38,8 +38,4 @@ and activate it:
 ```bash
 conda activate null-shot
 ```
-1. Install the requirements:
-```bash
-pip install -r requirements.txt
-```
-2. For each Jupyter notebook in the `analysis_code` folder, run the code cells to reproduce the results.
+1. For each Jupyter notebook in the `analysis_code` folder, run the code cells to reproduce the results.
