@@ -38,4 +38,6 @@ and activate it:
 ```bash
 conda activate null-shot
 ```
+You may need to install the dependencies listed in the `requirements.txt` file from [the code repository](https://github.com/Pittawat2542/null-shot-prompting) for certain scripts to function properly.
+
 1. For each Jupyter notebook in the `analysis_code` folder, run the code cells to reproduce the results.
